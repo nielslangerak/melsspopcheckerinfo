@@ -1,8 +1,7 @@
 # Important Documents for Mels's Pop Checker Discord Bot
 Official repository containing important documents regarding Mels's Pop Checker Discord Bot
 
-## Terms of Service
-LINK TO TOS
+## [Terms of Service](https://github.com/nielslangerak/melsspopcheckerinfo/blob/main/ToS.md)
 
-## Privacy Policy
-LNIK TO PP
+
+## [Privacy Policy](https://github.com/nielslangerak/melsspopcheckerinfo/blob/main/PrivacyPolicy.md)
