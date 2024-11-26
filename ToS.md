@@ -42,6 +42,6 @@ The owner of Mels’s Pop Checker will not be held liable for any direct, indire
 ## 8. Changes to the Terms
 These Terms may be updated periodically. Continued use of the Bot after changes are made constitutes acceptance of the updated Terms.
 
-9. Contact Information
+## 9. Contact Information
 If you have questions about these Terms, please contact the Bot owner via Discord [here](https://discord.gg/mels).
 By using Mels’s Pop Checker, you acknowledge that you have read, understood, and agreed to these Terms.
